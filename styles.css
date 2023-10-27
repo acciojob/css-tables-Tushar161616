@@ -1,24 +1,26 @@
 /*  your css code here. If applicable */
 .th{
-	border:1px solid #ccc;
-	border-radius:10px;
+	border:1px solid rgb(204,204,204);
+	border-radius:5px;
 	height:50px;
 	width:150px;
-	padding:5px;
+	padding:8px;
 }
 .td{
-	border:1px solid #ccc;
-	border-radius:10px;
+	border:1px solid rgb(204,204,204);
+	border-radius:5px;
 	height:50px;
 	width:150px;
 	text-align:center;
-	background-color:#ffffff;
+	background-color:rgb(255, 255, 255);
+	padding:8px;
 }
 .tdh{
-	border:1px solid #ccc;
+	border:1px solid rgb(204,204,204);
 	border-radius:10px;
 	height:50px;
 	width:150px;
 	text-align:center;
-	background-color:#f2f2f2;
+	background-color:rgb(242, 242, 242);
+	padding:8px;
 }
